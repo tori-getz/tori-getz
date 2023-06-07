@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniil Benger</h1>
-<h3 align="center">A Senior Fullstack Engineer</h3>
+<h3 align="center">A Lead Fullstack Engineer</h3>
 
 - 🔭 I’m currently working on [BitRussia](https://bitrussia.ru/)
 
