@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, NestJS, Microservices, Microfrontends**
 
-- 📫 How to reach me **crotecnhics@gmail.com**
+- 📫 How to reach me **torigetz@yandex.ru**
 
 - 📄 Know about my experiences [https://career.habr.com/tori-getz](https://career.habr.com/tori-getz)
 
